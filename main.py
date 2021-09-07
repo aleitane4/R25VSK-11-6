@@ -1,1 +1,2 @@
-print("Angelīna Līza Leitāne-6-komanda")
+print("Angelina Liza Leitane-6-komanda")
+print("Alisa Burkevica")
